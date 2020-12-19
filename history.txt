@@ -1,0 +1,6 @@
+b'google.com'
+b'gmail.com'
+b'yahoo.com'
+b'twitter.com'
+b'facebook.com'
+b'shopee.com'
